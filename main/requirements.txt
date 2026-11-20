@@ -1,0 +1,7 @@
+# ModernBERT support is required. Verified with transformers 5.0.0.
+torch>=2.6
+transformers>=4.48,<6
+huggingface-hub>=0.28,<3
+numpy>=1.26
+safetensors>=0.4
+tokenizers>=0.21
